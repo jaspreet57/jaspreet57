@@ -1,12 +1,13 @@
 # 👋 Hi, I’m Jaspreet Singh ([@jaspreet57](https://github.com/jaspreet57))
 
-#### 👨‍💻 I’m a software engineer specializing in building and designing web apps.
+#### 👨‍💻 Welcome to my corner of the Internet. I’m a software engineer specializing in building and designing web apps.
 
-- 🌱 I have worked with many ReactJs/Node Projects and I continue to learn new concepts being developed in web technology.
+- 🌱 I have worked with variety of Projects including ReactJs, NodeJs, Firebase, AWS, IOT devices, PHP-React SSR project, Java Servlets/JSP, Go Lang and so on...
+- 👨‍🏫 I continue to learn new concepts being developed in web technology.
 - 💞️ I love to collaborate on any project using Javascript/Typescript.
 
 
-> 📫 You can reach me at erjaspreet57@gmail.com | www.jaspreet-singh.com | [Twitter](https://twitter.com/erjaspreet57) | [LinkedIn](https://www.linkedin.com/in/jaspreet-singh)
+> 📨 Reach me at erjaspreet57@gmail.com | [JSingh.me](https://jsingh.me) | [X](https://x.com/erjaspreet57) | [LinkedIn](https://www.linkedin.com/in/jaspreet-singh) | [Facebook](https://www.facebook.com/jaspreet.s.saran)
 
 <!---
 jaspreet57/jaspreet57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
