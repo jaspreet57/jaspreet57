@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jaspreet Singh ([@jaspreet57](https://github.com/jaspreet57))
-#### 🌍 [JSingh.me](https://jsingh.me) | 📨 erjaspreet57@gmail.com | [𝕏](https://x.com/erjaspreet57) | [LinkedIn](https://www.linkedin.com/in/jaspreet-singh) | [Facebook](https://www.facebook.com/jaspreet.s.saran)
+#### 🌍 [JSingh.me](https://jsingh.me) | 📨 hi@jsingh.me | 📨 erjaspreet57@gmail.com | [𝕏](https://x.com/erjaspreet57) | [LinkedIn](https://www.linkedin.com/in/jaspreet-singh) | [Facebook](https://www.facebook.com/jaspreet.s.saran)
 
 #### 👨‍💻 Welcome to my corner of the Internet. I’m a software engineer specializing in building and designing web apps.
 
