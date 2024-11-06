@@ -3,7 +3,7 @@
 ### 👨‍💻 Welcome to my corner of the Internet. I work from anywhere !
 ### 👨‍💻 I’m a software engineer specializing in building and designing web apps.
 
-- 🌱 I have worked with number of Projects including ReactJs, NodeJs, Firebase, AWS, IOT devices, PHP-React SSR (Sympphony) project, Java Servlets/JSP, Go Lang and so on...
+- 🌱 I have worked across a wide range of Projects including ReactJs, NodeJs, Firebase, AWS, IOT devices, PHP-React SSR (Sympphony) project, Java Servlets/JSP, Go Lang and so on...
 - 👨‍🏫 I continue to learn new concepts being developed in web technology.
 - 💞️ I love to collaborate on any project using Javascript/Typescript.
 
