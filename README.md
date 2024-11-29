@@ -11,7 +11,6 @@ I am a **Software Engineer** with **9+ years** of experience specializing in bui
 - 💞️ **Love** I love to collaborate on any project using Javascript/Typescript. I love to create things that lives on the internet!
 - 💡 **Philosophy:** "Great design isn’t just how it looks; it’s how it works."
 
----
 
 ## 📬 Let’s Create Something Amazing Together!  
 - **Portfolio:** [JSingh.me](https://jsingh.me)
@@ -19,7 +18,6 @@ I am a **Software Engineer** with **9+ years** of experience specializing in bui
 - **LinkedIn:** [In/jaspreet-singh](https://www.linkedin.com/in/jaspreet-singh)
 - **𝕏** [𝕏/erjaspreet57](https://x.com/erjaspreet57)
 - **Facebook** [fb/jaspreet.s.saran](https://www.facebook.com/jaspreet.s.saran)
-
 
 
 <!---
